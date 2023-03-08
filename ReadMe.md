@@ -10,3 +10,9 @@ vcf_files = {
 	"EXAMPLE.XML",
   "bmwm5els.XML",
 }
+
+SIRENS:
+
+The sirens are already linked. Please take the WMServerSirens out of the folder and make a separate resource. Then delete the folder the WMServerSirens resource was in
+
+SIRENS ARE ALREADY LINKED TO CHANGE THE SIRENS PLEASE LOOK HERE https://www.youtube.com/watch?v=ZgZT_TuMdbU
