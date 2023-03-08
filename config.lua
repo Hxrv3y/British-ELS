@@ -3,7 +3,7 @@ playButtonPressSounds = true
 printDebugInformation = false
 
 vehicleSyncDistance = 150
-environmentLightBrightness = 1.0
+environmentLightBrightness = 0.5
 lightDelay = 10 -- Time in MS
 flashDelay = 15
 
